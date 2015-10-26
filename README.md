@@ -1,9 +1,9 @@
-Attobyte Libraries for .NET
+Zeptobyte Libraries for .NET
 ===========================
-**Attobyte Libraries for .NET** is a set of useful libraries for .NET Framework.
+**Zeptobyte Libraries for .NET** is a set of useful libraries for .NET Framework.
 These libraries include:
 
- - Attobyte.Net
+ - Zeptobyte.Net
 
 only at this moment. :P
 
